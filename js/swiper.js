@@ -14,6 +14,6 @@ const swiper = new Swiper('.swiper', {
     prevEl: '.controll-main-slider__arrow_prev',
   },
   clikable: true,
-  autoHeight: true,
+  autoHeight: false,
 
 });
